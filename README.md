@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takechiyo-19940627&count_private=true)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=takechiyo-19940627&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
