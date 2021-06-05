@@ -1,6 +1,6 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takechiyo-19940627&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takechiyo-19940627&count_private=true)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=takechiyo-19940627&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
